@@ -123,3 +123,7 @@ link = "https://github.com/Yehs1225"
 # title = "linkedin"
 # icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 # link = "#"
+
+[markup]
+  [markup.highlight]
+    style="pygments"
